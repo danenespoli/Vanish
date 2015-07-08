@@ -1,0 +1,6 @@
+To fix scaling:
+
+- Open Statics.cs
+- Find the line: *********USER INPUT NECESSARY*********
+- Change inputWidth & inputHeight based on screen resolution
+- Change difficulty float if desired (higher=harder, lower=easier, 1=baseline)

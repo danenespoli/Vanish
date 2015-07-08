@@ -1,0 +1,185 @@
+C:\Users\Dane Nespoli\AppData\Local\Temporary Projects\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane Nespoli\AppData\Local\Temporary Projects\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\AppData\Local\Temporary Projects\Vanish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dane Nespoli\AppData\Local\Temporary Projects\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane Nespoli\AppData\Local\Temporary Projects\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane Nespoli\AppData\Local\Temporary Projects\Vanish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dane Nespoli\AppData\Local\Temporary Projects\Vanish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dane Nespoli\AppData\Local\Temporary Projects\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane Nespoli\AppData\Local\Temporary Projects\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\documents\visual studio 2010\Projects\Vanish\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane Nespoli\documents\visual studio 2010\Projects\Vanish\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\documents\visual studio 2010\Projects\Vanish\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane Nespoli\documents\visual studio 2010\Projects\Vanish\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\documents\visual studio 2010\Projects\Vanish\Vanish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dane Nespoli\documents\visual studio 2010\Projects\Vanish\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane Nespoli\documents\visual studio 2010\Projects\Vanish\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane Nespoli\documents\visual studio 2010\Projects\Vanish\Vanish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dane Nespoli\documents\visual studio 2010\Projects\Vanish\Vanish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dane\Desktop\Vanish\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\Vanish\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\Vanish\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\Vanish\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\Vanish\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\Vanish\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\Vanish\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\Vanish\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\Vanish\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 8\Vanish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dane\Desktop\VANISHES\Vanish June 9\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 9\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 9\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 9\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 9\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 9\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 9\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 9\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 9\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dane\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 10\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 10\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 10\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dane\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 11\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 11\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 11\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 12 13\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 12 13\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 12 13\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 12 13\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 12 13\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 12 13\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 12 13\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 12 13\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 12 13\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 14\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 14\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 14\Vanish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dane\Desktop\VANISHES\Vanish June 15\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 15\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 15\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 15\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 15\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 15\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 15\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 15\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 15\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 16\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 16\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dane Nespoli\Desktop\VANISHES\Vanish June 16\Vanish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dane\Desktop\VANISHES\Vanish June 17\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 17\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 17\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish June 17\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish June 17\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\VANISHES\Vanish June 17\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 17\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 17\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish June 17\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\VANISHES\Vanish Final\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish Final\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish Final\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\VANISHES\Vanish Final\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\VANISHES\Vanish Final\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\VANISHES\Vanish Final\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish Final\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish Final\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\VANISHES\Vanish Final\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dylan Park\Desktop\Vanish Final\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dylan Park\Desktop\Vanish Final\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dylan Park\Desktop\Vanish Final\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dylan Park\Desktop\Vanish Final\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dylan Park\Desktop\Vanish Final\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dylan Park\Desktop\Vanish Final\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dylan Park\Desktop\Vanish Final\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dylan Park\Desktop\Vanish Final\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dylan Park\Desktop\Vanish Final\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+Z:\Period 1 - ICS4U\Culminating Projects\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.exe
+Z:\Period 1 - ICS4U\Culminating Projects\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.pdb
+Z:\Period 1 - ICS4U\Culminating Projects\Dane Dylan Josh - Culminating\Vanish\bin\Debug\Vanish.exe
+Z:\Period 1 - ICS4U\Culminating Projects\Dane Dylan Josh - Culminating\Vanish\bin\Debug\Vanish.pdb
+Z:\Period 1 - ICS4U\Culminating Projects\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+Z:\Period 1 - ICS4U\Culminating Projects\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+Z:\Period 1 - ICS4U\Culminating Projects\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+Z:\Period 1 - ICS4U\Culminating Projects\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+Z:\Period 1 - ICS4U\Culminating Projects\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.exe
+C:\Users\Dane\Desktop\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\Dane Dylan Josh - Culminating\Vanish\bin\Debug\Vanish.exe
+C:\Users\Dane\Desktop\Dane Dylan Josh - Culminating\Vanish\bin\Debug\Vanish.pdb
+C:\Users\Dane\Desktop\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.IntroScreen.resources
+C:\Users\Dane\Desktop\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.Vanish.resources
+C:\Users\Dane\Desktop\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.Properties.Resources.resources
+C:\Users\Dane\Desktop\Dane Dylan Josh - Culminating\Vanish\obj\x86\Debug\Vanish.csproj.GenerateResource.Cache
